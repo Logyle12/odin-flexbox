@@ -20,6 +20,8 @@ body {
     background-color: #1F2937;
     height: 60px;
     padding: 0px 30px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
