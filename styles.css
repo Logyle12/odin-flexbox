@@ -19,6 +19,7 @@ body {
     display: flex;
     background-color: #1F2937;
     height: 60px;
+    padding: 0px 30px;
 }
 
 .logo {
