@@ -7,11 +7,12 @@
 
 .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
 
 .header {
     display: flex;
+    background-color: #1F2937;
 }
 
 .nav-list {
@@ -37,4 +38,5 @@
 
 .footer {
     display: flex;
+    background-color: #1F2937;
 }
