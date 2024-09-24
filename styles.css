@@ -18,13 +18,13 @@ body {
 .layout-container {
     display: flex;
     flex-direction: column;
+    padding: 0px 30px;
+    background-color: #1F2937;
 }
 
 .header {
     display: flex;
-    background-color: #1F2937;
     height: 60px;
-    padding: 0px 30px;
     align-items: center;
     justify-content: space-between;
 }
