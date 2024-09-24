@@ -13,11 +13,16 @@
 .header {
     display: flex;
     background-color: #1F2937;
+    color: #E5E7EB;
 }
 
 .nav-list {
     list-style-type: none;
     display: flex;
+}
+
+.nav-list li a{
+    color: #E5E7EB;
 }
 
 .main-content {
