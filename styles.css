@@ -8,3 +8,12 @@
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    display: flex;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+}
