@@ -55,6 +55,10 @@ body {
     color: #F9FAF8;
 }
 
+.main-content .text {
+    color: #E5E7EB;
+}
+
 .content-container {
     display: flex;
 }
