@@ -17,3 +17,15 @@
     list-style-type: none;
     display: flex;
 }
+
+.main-content {
+    display: flex;
+}
+
+.content-container {
+    display: flex;
+}
+
+.quote-container {
+    display: flex;
+}
