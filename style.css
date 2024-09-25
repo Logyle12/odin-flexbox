@@ -56,6 +56,13 @@ button {
     align-items: center;
 }
 
+.content-boxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .main-content {
     display: flex;
 }
