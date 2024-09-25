@@ -94,6 +94,7 @@ button {
 
 .quote-container {
     display: flex;
+    background-color: #E5E7EB;
 }
 
 .sign-up-content {
