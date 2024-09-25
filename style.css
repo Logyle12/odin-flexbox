@@ -81,6 +81,14 @@ button {
     text-align: center;
 }
 
+.box {
+    max-width: 200px;
+}
+
+.box img {
+    width: 100%;
+}
+
 .quote-container {
     display: flex;
 }
