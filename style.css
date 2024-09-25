@@ -101,6 +101,8 @@ a {
 
 .sign-up-content {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .sign-up-button {
