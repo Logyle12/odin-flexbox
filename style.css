@@ -50,19 +50,6 @@ button {
     color: #E5E7EB;
 }
 
-.content-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.content-boxes {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
 .main-content {
     display: flex;
 }
@@ -77,9 +64,17 @@ button {
     color: #E5E7EB;
 }
 
-
 .content-container {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content-boxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .quote-container {
