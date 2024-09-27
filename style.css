@@ -48,6 +48,7 @@ a {
 
 .main-content {
     display: flex;
+    justify-content: space-between;
 }
 
 .main-content .heading {
