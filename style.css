@@ -33,6 +33,7 @@ a {
     height: 60px;
     align-items: center;
     justify-content: space-between;
+    margin: 10px 100px;
 }
 
 .logo {
@@ -49,6 +50,7 @@ a {
 .main-content {
     display: flex;
     justify-content: space-between;
+    margin: 50px 100px;
 }
 
 .main-content .heading {
