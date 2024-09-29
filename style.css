@@ -118,6 +118,12 @@ a {
     color: #1F2937;
 }
 
+.quote-citation {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 800;
+}
+
 .sign-up-container {
     display: flex;
     align-items: center;
