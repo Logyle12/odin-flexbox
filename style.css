@@ -118,13 +118,16 @@ a {
     color: #1F2937;
 }
 
-.sign-up-container, .sign-up-content {
+.sign-up-container {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .sign-up-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #3882F6;
     color: #F9FAF8;
     border-radius: 10px;
