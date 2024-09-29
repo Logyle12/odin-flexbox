@@ -73,6 +73,7 @@ a {
 
 .info-section {
     flex-basis: 450px;
+    margin-right: 20px;
 }
 
 .info-section> * {
