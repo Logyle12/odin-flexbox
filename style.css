@@ -141,6 +141,10 @@ a {
     border-radius: 8px;
 }
 
+.sign-up-content > .sign-up-button {
+    border: 2.5px solid #E5E7EB;
+}
+
 .footer {
     display: flex;
     background-color: #1F2937;
